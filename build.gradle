@@ -5,12 +5,12 @@ apply plugin: 'maven'
 
 group 'com.mobfox.android.MobfoxSDK'
 
-version = '4.2.1'
+version = '4.3.1'
 
 ext {
     // location of external files relative to this build.gradle file
     extFiles = [
-        main: 'MobFox-Android-MobfoxSDK-4.2.1.jar',
+        main: 'MobFox-Android-MobfoxSDK-4.3.1.jar',
     ]
 }
 
